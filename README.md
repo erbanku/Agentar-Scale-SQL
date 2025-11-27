@@ -192,7 +192,7 @@ We are developing a ChatBI product that transforms complex business data into co
 <figure>
   <img src="./resources/dingding.png" 
        alt="dingding" 
-       width="300" 
+       width="250" 
        style="display: block; margin: 0 auto;">
   <figcaption style="text-align: center; font-style: italic; color: #555;">
     Figure 2:  The contact information.
